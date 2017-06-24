@@ -6,6 +6,7 @@ This repository contains my results from following the [Python Programming Djang
 
 ## **Change Log**
 
+* 24/6/2017 - Completed [Database migration - Django Web Development Tutorial](https://pythonprogramming.net/database-migration-django-python-tutorial/)
 * 24/6/2017 - Completed [Views and Templates - Django Web Development Tutorial](https://pythonprogramming.net/views-templates-django-python-tutorial/)
 * 24/5/2017 - Completed [Beginning a Blog - Django Web Development Tutorial](https://pythonprogramming.net/blog-django-python-tutorial/)
 * 24/6/2017 - Completed [Jinja Variables - Django Web Development Tutorial](https://pythonprogramming.net/jinja-variables-django-python-tutorial/)

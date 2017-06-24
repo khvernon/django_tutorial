@@ -1,5 +1,5 @@
 from django.conf.urls import url, include
-form django.views.generic import ListView, DetailView
+from django.views.generic import ListView, DetailView
 from blog.models import Post
 
 urlpatterns = [
