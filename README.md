@@ -6,6 +6,7 @@ This repository contains my results from following the [Python Programming Djang
 
 ## **Change Log**
 
+* 24/6/2017 - Completed [Jinja Variables - Django Web Development Tutorial](https://pythonprogramming.net/jinja-variables-django-python-tutorial/)
 * 24/6/2017 - Completed [Design with HTML/CSS - Django Web Development Tutorial](https://pythonprogramming.net/design-bootstrap-django-python-tutorial/)
 * 24/6/2017 - Completed [Jinja Templates - Django Web Development Tutorial](https://pythonprogramming.net/jinja-templates-django-python-tutorial/)
 * 24/6/2017 - Completed [First Website - Django Web Development Tutorial](https://pythonprogramming.net/first-site-django-python-tutorial/)
